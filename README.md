@@ -6,5 +6,7 @@
 <br><br>
 <p align="center">
   <a href="https://github.com/neotesk/font/releases/download/1.0.0/Cib_The_Cat.ttf">Download: TTF Font</a><br>
+  <a href="https://github.com/neotesk/font/releases/download/1.0.0/Cib_The_Cat.otf">Download: OTF Font</a><br>
+  <a href="https://github.com/neotesk/font/releases/download/1.0.0/Cib_The_Cat.pfb">Download: PFB Font</a><br>
   <a href="https://github.com/neotesk/font/archive/refs/tags/1.0.0.zip">Download: Source code</a>
 </p>
