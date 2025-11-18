@@ -10,3 +10,7 @@
   <a href="https://github.com/neotesk/font/releases/download/1.0.0/Cib_The_Cat.pfb">Download: PFB Font</a><br>
   <a href="https://github.com/neotesk/font/archive/refs/tags/1.0.0.zip">Download: Source code</a>
 </p>
+<br><br>
+
+# Preview
+<img alt="image" src="https://github.com/user-attachments/assets/720cd1b6-69b1-427d-b5e1-834fcaa25443" />
